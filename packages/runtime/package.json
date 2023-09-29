@@ -1,5 +1,5 @@
 {
-  "name": "elemend",
+  "name": "elemend-runtime",
   "version": "1.0.0",
   "module": "index.ts",
   "main": "dist/elemend.ts",
